@@ -3,7 +3,7 @@
 
 ## 🛡️ Verified Professional Credentials
 
-| Project Governance & Strategy |  AI / Architecture / Cybersecurity Expertise |
+| Project Governance & Strategy |  AI / Architecture / Cybersecurity |
 | :--- | :--- |
 | ![PMP](https://img.shields.io/badge/PMP%C2%AE-Project%20Management%20Professional-blue?style=flat-square&logo=pmi&logoColor=white) | ![GCP Architect](https://img.shields.io/badge/Google%20Cloud-Professional%20Architect-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
 | ![Scrum Master](https://img.shields.io/badge/Scrum.org-Certified%20Scrum%20Master%20(PSM)-0288D1?style=flat-square&logo=scrum.org&logoColor=white) | ![GCP ML Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
