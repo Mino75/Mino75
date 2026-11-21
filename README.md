@@ -11,9 +11,30 @@
 
 ---
 
-## 🔗 Connect & Verify Credentials
+## ✍️ Articles
 
-Let's discuss Engineering Management, Cloud/ML Architecture, or Tech for Good initiatives.
+Sharing experiments and lessons across AI, engineering, cybersecurity, DevOps, product management, and continuous improvement.
+
+### [Medium](https://medium.com/@randriamanivo) — 9 articles
+
+- **2026** — [Intrapreneur / Innovator Journey: Building Innovative Products and Accelerating with Artificial Intelligence](https://medium.com/@randriamanivo/intrapreneur-innovator-journey-2026-building-innovative-products-and-accelerating-it-with-1de3a9d52bc1)
+- **2025** — [Cybersecurity Analyst Journey: Auditing Website Performance and Stack with Wappalyzer & PageSpeed Insights](https://medium.com/@randriamanivo/cybersecurity-analyst-journey-2025-auditing-website-performances-and-stack-with-wappalyzer-2ea793e4e85c)
+- **2025** — [JavaScript: One Development Language to Animate Them All](https://medium.com/@randriamanivo/javascript-one-dev-language-to-animate-them-all-one-language-to-find-them-one-language-to-bring-1fe5450fb1c4)
+- **2025** — [Language Learning Journey: Connecting Worlds, Cultures, and Perspectives](https://medium.com/@randriamanivo/few-languages-connecting-worlds-cultures-and-perspectives-language-learner-journey-in-2025-e67823fa38e8)
+- **2025** — [Platform Engineer Journey: Dockerizing Node.js Apps with GitHub Actions and Docker Hub](https://medium.com/@randriamanivo/automating-builds-and-dockerisation-of-nodejs-app-with-github-actions-and-docker-hub-devops-2a7617adce89)
+- **2023** — [IT Project Manager: Continuous Improvement Guidelines and Best Practices](https://medium.com/@randriamanivo/a-review-of-continuous-improvement-guidelines-and-best-practices-in-2023-cd1073ac8d8c)
+- **2022** — [DevOps Journey: Deploying with Portainer, Traefik, and Docker Compose](https://medium.com/@randriamanivo/devops-journey-in-2022-using-portainer-traefik-and-docker-compose-to-quickly-deploy-an-example-aa5a2c43645d)
+- **2022** — [QA Tester / Business Analyst: Testing and Automating REST APIs with Postman](https://medium.com/@randriamanivo/qa-tester-business-analyst-journey-2022-part-1-testing-and-automating-rest-api-functional-use-986bb8c107c1)
+- **2022** — [Product Owner Journey: Writing Functional Test-Books](https://medium.com/@randriamanivo/product-owner-journey-2022-part-1-writing-functional-test-books-cookbook-d2242e7078a6)
+
+### [DEV Community](https://dev.to/mino_rand) — 2 articles
+
+- **2026** — [Maintenance & Security Journey: Post-Mortem Measures for Compromised Ghost Websites](https://dev.to/mino_rand/maintenance-security-journey-in-2026-post-mortem-measures-in-ghost-compromised-websites-43bp)
+- **2026** — [AI Security Engineer Journey: Recovering, Migrating, and Monitoring Traefik v3 and Portainer](https://dev.to/mino_rand/ai-security-engineer-journey-in-2026-recovering-migrating-and-monitoring-traefik-v3-portainer-3g17)
+
+---
+
+## 🔗 Useful Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mino%20Randriamanivo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mialinjava-mino-randriamanivo/)
 [![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF5A00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mialinjava-mino-randriamanivo)
