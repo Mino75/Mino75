@@ -1,7 +1,7 @@
-# Hi there, I'm Mino Randriamanivo 👋
+# Hi, I'm Mino 👋
 ---
 
-## 🛡️ Verified Professional Credentials
+## 🛡️ Professional Credentials
 
 | Project Governance & Strategy | AI / Architecture / Cybersecurity |
 | :--- | :--- |
