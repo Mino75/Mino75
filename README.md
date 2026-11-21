@@ -19,4 +19,4 @@ Let's discuss Engineering Management, Cloud/ML Architecture, or Tech for Good in
 [![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF5A00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mialinjava-mino-randriamanivo)
 [![Scrum.org](https://img.shields.io/badge/Scrum.org-Profile-0288D1?style=for-the-badge&logo=scrum.org&logoColor=white)](https://www.scrum.org/user/745071)
 [![W3Schools](https://img.shields.io/badge/W3Schools-Certified-28A745?style=for-the-badge&logo=w3schools&logoColor=white)](https://certification.w3schools.com/w3certified.asp?id=12804982)
-[![Website](https://img.shields.io/badge/Personal%20Website-mino.randriamanivo.com-000000?style=for-the-badge&logo=firefox)](https://mino.randriamanivo.com/)
+[![Homelab website](https://img.shields.io/badge/Personal%20Website-mino.randriamanivo.com-000000?style=for-the-badge&logo=firefox)](https://mino.randriamanivo.com/)
